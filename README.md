@@ -29,10 +29,10 @@ Julia is a high-level high-performance multipurpose programming language.
 
 What do we mean by high-level?
 The Julia language is closer connected with the human like instructions than with the machine 0s or 1s or the Assembly code.
-It comes with lots of preloaded functions and libraries which make matrix multiplications, parallel computing, mathematical functions as easy as possible.
+It comes with lots of preloaded functions and libraries which make matrix multiplications, parallel computing, mathematical functions, I/O, networking, and so on, as easy as possible.
 
 What do we mean by high-performance?
-Usually to achieve high performance we need to use low-level languages like C/C++ or Fortran, even Assembly
+Usually to achieve high performance we need to use low-level languages like C/C++ or FORTRAN, even ASSEMBLY.
 In this case performances comparable with the obtained by the mentioned languages are achieve thanks to the Julia compiler.
 
 Finally, the language is multipurpose, mostly like Python and so on, because any task one wants to implement with Julia into the computer can be written in Julia, which is not the case for languages like MATLAB and other scientific programming languages.
@@ -41,12 +41,21 @@ To install Julia into your computer follow the necessary steps for your OS found
 
 ## Program
 
-The course is divided into two main categories which consist of
+The course is divided into two main categories.
+This doesn't mean that they will be divided also chronologically, not at all.
+The version control will be introduced and mastered while some programming skills are acquired, to the point that we will be able to work collaboratively with other people even remotely using git.
 
-### 0 - Download the course
+### 0 - Download the course and preliminary things
 
-### 1 - Programming (with Julia)
+Lear the basics to use the terminal. For instance, move yourself to different paths, create new folders, new files, delete, move and copy, and so on.
+Create a work-space for the course. Install the requisites and download the curse.
 
-### 2 - Version control systems (with Git)
+### A - Version control systems (with Git)
 
-### 3 - Mix all together ... for better
+The first points are to create a project and initialize the repository.
+Then we will learn how to commit the changes, create branches, and merge them.
+Finally, we will create a remote to connect it with our local repository and to collaborate with your team.
+For this regard, we will learn how to use GitLab as remote and issue tracker.
+We will also familiarize with GitHub too.
+
+### B - Programming (with Julia)
