@@ -8,7 +8,10 @@ Este curso está dirigido a quienes quieran aprender las bases de los metodos m�
 Se cubrirán los aspectos más importantes de la programación y además se aprendera a controlar las versiones de cualquier trabajo que esté basado en código de programación.
 Como la información facilitada durante el curso se puede encontrar en su integridad en inglés en Internet, y como para la mayor parte de trabajos colavorativos el idioma vehicular es en mayor parte el ingles, usaremos este idoma a partir de ahora.
 
-## Prerequisites
+## Main tools
+
+In this curse we will study the basics of scientific programming and how to organize and control the work we do in our code and share it with other people for collaborating.
+For this we will use two different main tools Git and Julia.
 
 ### Git
 
@@ -59,3 +62,8 @@ For this regard, we will learn how to use GitLab as remote and issue tracker.
 We will also familiarize with GitHub too.
 
 ### B - Programming (with Julia)
+
+Introduction to programming languages. Interacting with Julia trough the REPL. Define variables, which are the number types and elementary functions.
+Introduce to the control flow with `if`, `for`, `while` and so on.
+Introduction to Jupyter, an interactive multi-language scientific programming environment.
+Introduction to multi-dimensional arrays and linear-algebra. Introduction to functions, types and modules. Introduction to parallel computing. Introduction to meta-programming.
